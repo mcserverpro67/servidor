@@ -1,2 +1,3 @@
 # servidor
-server pro mc
+server pro terraria
+
